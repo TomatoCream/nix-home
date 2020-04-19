@@ -27,14 +27,11 @@
     broot
     exa
     fd
-    fd
     hexyl
     hyperfine
     #navi
     nushell
     ripgrep
-    ripgrep
-    starship
     starship
     tokei
     topgrade
